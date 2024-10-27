@@ -6,14 +6,14 @@ body {
 }
 
 header {
-    border-bottom: solid 2px rgb(42, 122, 228);
+    border-bottom: solid 2px rgb(128, 250, 57);
     padding: 20px;
     font-size: 32px;
-    color: rgb(42, 122, 228);
+    color: rgb(65, 184, 42);
 }
 
 section {
-	background: rgb(184,156,213);
+	background: rgb(123, 156, 5);
 	padding-bottom: 80px;
 	padding-top: 80px;
 	display: flex;
